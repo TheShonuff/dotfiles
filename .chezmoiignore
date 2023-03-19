@@ -1,2 +1,5 @@
 .config/zsh-plugins/zsh-autosuggestions
-.config/zsh-plugins/zsh-syntax-highlighting 
+.config/zsh-plugins/zsh-autosuggestions/**
+
+.config/zsh-plugins/zsh-syntax-highlighting/
+.config/zsh-plugins/zsh-syntax-highlighting/**

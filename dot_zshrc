@@ -32,7 +32,6 @@ source ~/.config/zsh-plugins/highlighting.zsh
 export DENO_INSTALL="/home/shonuff/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
 
-export SCOUT_TOKEN='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'
 
 ## fnm
 
@@ -94,6 +93,9 @@ source ~/.config/zsh-plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # source Zsh Syntax Highlighting
 source ~/.config/zsh-plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 
+# FZF commands 
+ source /usr/share/doc/fzf/examples/key-bindings.zsh
+ source /usr/share/doc/fzf/examples/completion.zsh
 # Insitate a history file 
 HISTFILE=~/.zsh_history 
 HISTSIZE=1000
