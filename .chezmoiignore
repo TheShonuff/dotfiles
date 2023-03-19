@@ -1,3 +1,2 @@
-private_dot_config/zsh-plugins/zsh-autosuggestions
-private_dot_config/zsh-plugins/zsh-nvm
-private_dot_config/zsh-plugins/zsh-syntax-highlighting 
+.config/zsh-plugins/zsh-autosuggestions
+.config/private_dot_config/zsh-plugins/zsh-syntax-highlighting 
